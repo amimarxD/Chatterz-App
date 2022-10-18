@@ -2,6 +2,7 @@ import os, sys
 import customtkinter
 from Views.View import App
 
+
 if __name__== "__main__":
     try:
         root = customtkinter.CTk()
